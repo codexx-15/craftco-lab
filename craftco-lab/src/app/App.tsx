@@ -1,5 +1,5 @@
-import { Header } from "./components/Header"
 import { AnnouncementBar } from "./components/AnnouncementBar"
+import { Header } from "./components/Header"
 import { HeroSection } from "./components/HeroSection"
 import { CategoryGrid } from "./components/CategoryGrid"
 import { FeaturedProducts } from "./components/FeaturedProducts"
